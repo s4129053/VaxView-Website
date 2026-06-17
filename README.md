@@ -1,2 +1,16 @@
-# VaxView-Website
-This is my first website, built using Python, CSS, and an SQL database. I'm excited to share it and would appreciate any feedback or suggestions for improvement.
+# VaxView Website
+
+A web-based immunisation data management system developed using Python, SQLite, HTML, CSS, and JavaScript.
+
+## Features
+- Search and filter records
+- Database integration
+- Responsive UI
+- Data management dashboard
+
+## Technologies
+- Python
+- SQLite
+- HTML
+- CSS
+- JavaScript
