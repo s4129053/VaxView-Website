@@ -63,17 +63,17 @@ python app.py
 
 ## Screenshots
 
-### Home Page
-(Add screenshot here)
+### Homepage
+![Homepage](screenshotshomepage.png)
 
-### Search and Filter Functionality
-(Add screenshot here)
+### Vaccination Data Analysis
+![Vaccination Data](screenshotsvaccination-data.png)
 
-### Dashboard
-(Add screenshot here)
+### Vaccination Rate Analysis
+![Vaccination Rate](screenshotsvaccination-rate.png)
 
-### Database Records
-(Add screenshot here)
+### Dashboard Overview
+![Dashboard](screenshotsdashboard.png)
 
 ## Learning Outcomes
 
