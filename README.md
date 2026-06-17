@@ -1,56 +1,102 @@
-# VaxView
+# VaxView Website
 
-A full-stack web application for exploring, analysing, and visualising global vaccination and infection data.
-
-VaxView enables users to search, filter, and compare vaccination coverage, infection trends, and immunisation statistics across countries and regions through an interactive web interface.
-
----
+A web-based immunisation data management system developed using Python, SQLite, HTML, CSS, and JavaScript.
 
 ## Features
+- Search and filter records
+- Database integration
+- Responsive UI
+- Data management dashboard
 
-### Vaccination Data Analysis
-- Search vaccination records
-- Filter by antigen, year, country, and region
-- View countries meeting vaccination targets
-- Regional vaccination summaries
-
-### Vaccination Rate Insights
-- Compare vaccination growth between years
-- Identify countries with the highest vaccination rate increases
-- Generate ranked vaccination statistics
-
-### Infection Data Analysis
-- Explore infection trends
-- Analyse disease-related datasets
-- Compare vaccination and infection indicators
-
-### Dashboard Overview
-- Interactive data summaries
-- Vaccination coverage statistics
-- Disease information overview
-- Database timeframe insights
-
-### User Experience
-- Responsive web design
-- Dynamic filtering system
-- Search functionality
-- Pagination support
-- Easy-to-navigate interface
-
----
-
-## Technologies Used
-
-### Backend
+## Technologies
 - Python
 
 ### Database
 - SQLite
-
-### Frontend
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
+
+## Project Structure
+
+```text
+VaxView/
+├── static/
+├── templates/
+├── database/
+├── app.py
+├── requirements.txt
+└── README.md
+```
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/VaxView.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd VaxView
+```
+
+3. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the application:
+
+```bash
+python app.py
+```
+
+5. Open your browser and visit:
+
+```text
+[http://localhost:80]
+```
+
+## Screenshots
+
+### Home Page
+(Add screenshot here)
+
+### Search and Filter Functionality
+(Add screenshot here)
+
+### Dashboard
+(Add screenshot here)
+
+### Database Records
+(Add screenshot here)
+
+## Learning Outcomes
+
+Through this project, we gained practical experience in:
+
+- Full-stack web development
+- Database design and integration
+- Front-end user interface development
+- Backend application development with Python
+- Project collaboration and version control
+
+## Authors
+
+Developed by:
+
+- Zawad Mahmud
+- Tanzil Shakib
+
+This project was developed as part of coursework at :contentReference[oaicite:0]{index=0}.
+
+## License
+
+This project is intended for educational and portfolio purposes.
 
 ---
 
