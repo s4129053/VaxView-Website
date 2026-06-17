@@ -64,7 +64,7 @@ python app.py
 5. Open your browser and visit:
 
 ```text
-http://localhost:5000
+[http://localhost:80]
 ```
 
 ## Screenshots
